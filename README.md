@@ -1,5 +1,7 @@
+![Header](./header.png)
+
 <div align="center">
-  <img src="" alt="Banner" width="100%" />
+  <img src="./header.png" alt="Banner" width="100%" />
 </div>
 
 ---
@@ -7,7 +9,7 @@
 ### 👋 Olá! Me chamo **Fábio**
 
 Sou estudante de **Ciência da Computação** e atuo na área desde **2023**.  
-Atualmente, foco em **desenvolvimento back-end**, buscando aprimorar minhas habilidades e ampliar meu portfólio. 🚀👨‍💻  
+Atualmente, focado em **desenvolvimento back-end** e em aprender **java**, buscando aprimorar minhas habilidades e ampliar meu portfólio. 🚀👨‍💻  
 
 ---
 
