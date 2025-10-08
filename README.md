@@ -1,4 +1,3 @@
-![Header](./header.png)
 
 <div align="center">
   <img src="./header.png" alt="Banner" width="100%" />
