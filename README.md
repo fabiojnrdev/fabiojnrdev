@@ -27,23 +27,6 @@ Focado em desenvolvimento **back-end**, aprendendo **Java** e construindo projet
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=fabiojnrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" 
-    height="165"
-  />
-
-  <!-- Top Languages -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojnrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-    height="165"
-  />
-
-</div>
 
 ---
 
