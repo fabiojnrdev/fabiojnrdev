@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Se quiser usar um banner estático local, coloque header.png na raiz do repositório -->
+  
   <img src="./header.png" alt="Banner" style="width:100%; max-height:220px; object-fit:cover;" />
 </div>
 
@@ -23,8 +23,9 @@ Focado em desenvolvimento **back-end**, com interesse em arquiteturas escalávei
 ## 🧠 Habilidades
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,js,postgres,wordpress,html,python,django,java,figma&theme=dark" height="120" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,js,postgres,html,python,django,java,fastapi&theme=dark" height="120" alt="skills" />
 </div>
+
 
 ---
 
@@ -32,14 +33,13 @@ Focado em desenvolvimento **back-end**, com interesse em arquiteturas escalávei
 
 <div align="center">
 
-  <!-- GitHub Readme Stats -->
   <img
     src="https://github-readme-stats.vercel.app/api?username=fabiojnrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
     alt="GitHub stats"
     height="165"
   />
 
-  <!-- Top Languages -->
+  
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojnrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
     alt="Top languages"
