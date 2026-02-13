@@ -7,7 +7,7 @@
 
 ### 👋 Olá! Me chamo **Fábio**
 
-Sou estudante de **Ciência da Computação** e atuo na área desde **2023**.  
+Sou estudante de **Ciência da Computação**, com formação técnica em Desenvolvimento de Sistemas.  
 Focado em desenvolvimento **back-end**, com interesse em arquiteturas escaláveis, código limpo e construção de soluções robustas.
 
 ---
