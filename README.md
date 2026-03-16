@@ -5,14 +5,14 @@
 
 ---
 
-### 👋 Olá! Me chamo **Fábio**
+### Bem-vindos ao meu portfólio, meu nome é Fábio**
 
 Sou estudante de **Ciência da Computação**, com formação técnica em Desenvolvimento de Sistemas.  
-Focado em desenvolvimento **back-end**, com interesse em arquiteturas escaláveis, código limpo e construção de soluções robustas.
+Focado em desenvolvimento **back-end**, com foco em arquiteturas escaláveis, código limpo e construção de soluções robustas.
 
 ---
 
-## 🌱 Sobre mim
+## 🌱 Atualmente
 
 - Atuando em projetos para fortalecer meu portfólio.  
 - Curioso por arquiteturas escaláveis e boas práticas.  
@@ -20,7 +20,7 @@ Focado em desenvolvimento **back-end**, com interesse em arquiteturas escalávei
 
 ---
 
-## 🧠 Habilidades
+## 🧠 Stacks
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,bootstrap,css,js,postgres,html,python,django,java,fastapi&theme=dark" height="120" alt="skills" />
