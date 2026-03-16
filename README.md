@@ -5,7 +5,7 @@
 
 ---
 
-### Bem-vindos ao meu portfólio, meu nome é Fábio**
+### Bem-vindos ao meu portfólio, meu nome é Fábio
 
 Sou estudante de **Ciência da Computação**, com formação técnica em Desenvolvimento de Sistemas.  
 Focado em desenvolvimento **back-end**, com foco em arquiteturas escaláveis, código limpo e construção de soluções robustas.
