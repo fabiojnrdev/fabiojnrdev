@@ -43,6 +43,7 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
 - Git
 - GitHub
 - Docker
+  
 **Idiomas**
 - Português – nativo
 - Inglês – B1
