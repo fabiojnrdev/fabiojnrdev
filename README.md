@@ -32,11 +32,13 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
 - React
 - JavaScript
 - HTML, CSS, Bootstrap
+  
 **Arquitetura**
 - APIs REST
 - POO
 - Arquitetura em Camadas
 - Autenticação JWT
+
 **DevOps & Ferramentas**
 - Git
 - GitHub
