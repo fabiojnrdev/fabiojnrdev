@@ -32,12 +32,23 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
 - React
 - JavaScript
 - HTML, CSS, Bootstrap
+**Arquitetura**
+- APIs REST
+- POO
+- Arquitetura em Camadas
+- Autenticação JWT
+**DevOps & Ferramentas**
+- Git
+- GitHub
+- Docker
+**Idiomas**
+- Português – nativo
+- Inglês – B1
 
 ---
 
 ## 🛠️ Projetos em destaque
 
-> Aqui é onde você realmente ganha o recrutador
 
 - 🔹 **Ferramenta de organização e manipulação de arquivos (Python)**
   - Arquitetura Desacoplada: Implementação de lógica de negócio centralizada no core.py, permitindo que as interfaces CLI e GUI (Tkinter) consumam as mesmas funções de forma independente e reutilizável.
