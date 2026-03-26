@@ -4,62 +4,60 @@
 
 ---
 
-<h2 align="center">Fábio | Back-end Developer</h2>
+<h2 align="center">Fábio | Backend Developer</h2>
 
 <p align="center">
-Estudante de Ciência da Computação com formação técnica em Desenvolvimento de Sistemas.<br/>
-Focado em back-end, APIs escaláveis e boas práticas de engenharia de software.
+Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, APIs robustas e boas práticas de engenharia de software.
 </p>
 
 ---
 
 ## 🚀 Sobre mim
 
-- Experiência com construção de APIs REST utilizando **FastAPI** e **Django**
-- Interesse em arquitetura de software, organização de código e performance
-- Prática com bancos relacionais (**PostgreSQL**) e modelagem de dados
-- Familiaridade com versionamento e fluxo de desenvolvimento com Git
+- Estudante de Ciência da Computação  
+- Formação técnica em Desenvolvimento de Sistemas  
+- Foco em back-end com Python e APIs  
+- Interesse em sistemas escaláveis e código limpo  
 
 ---
 
-## 🧩 O que você vai encontrar aqui
+## 🧠 Tecnologias
 
-- Projetos com foco em **back-end e integração de sistemas**
-- Código organizado seguindo princípios de **clean code**
-- Estruturas pensadas para **escala e manutenção**
+**Back-end**
+- Python (FastAPI, Django)
+- Java
+- PostgreSQL
 
----
-
-## 🛠️ Stack Principal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,java,js,react,html,css,bootstrap&theme=dark" height="120" alt="skills" />
-</div>
+**Front-end (apoio)**
+- React
+- JavaScript
+- HTML, CSS, Bootstrap
 
 ---
 
-## 📊 Estatísticas
+## 🛠️ Projetos em destaque
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=fabiojnrdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiojnrdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"
-    height="165"
-  />
-</div>
+> Aqui é onde você realmente ganha o recrutador
+
+- 🔹 **Ferramenta de organização e manipulação de arquivos (Python)**
+  - Arquitetura Desacoplada: Implementação de lógica de negócio centralizada no core.py, permitindo que as interfaces CLI e GUI (Tkinter) consumam as mesmas funções de forma independente e reutilizável.
+  - Processamento de Mídia & Documentos: Integração com a biblioteca Pillow para conversão dinâmica de formatos de imagem (JPG, PNG, BMP, GIF) e lógica customizada para organização estrutural de PDFs.
+  - CLI: Focada em produtividade e automação de scripts via terminal.
+  - GUI: Desenvolvida para acessibilidade, incluindo feedback visual e barras de progresso para operações.
+- 🔹 **API REST – Loja Geek (FastAPI)**
+  - Desenvolvimento de API escalável com 25 endpoints para gestão complexa de produtos e usuários.
+  - Implementação de Autenticação JWT e integridade de dados com Pydantic.
+  - Foco em Manutenibilidade: Estruturação em Arquitetura Modular, facilitando a refatoração e expansão de funcionalidades.
+
 
 ---
 
-## 🐍 Contribuições
+## 📈 O que você pode esperar de mim
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/fabiojnrdev/fabiojnrdev/output/github-contribution-grid-snake-dark.svg"
-  />
-</div>
+- Código limpo e bem estruturado  
+- Organização por camadas e responsabilidades  
+- Preocupação com escalabilidade desde o início  
+- Evolução constante e aprendizado rápido  
 
 ---
 
@@ -79,6 +77,6 @@ Focado em back-end, APIs escaláveis e boas práticas de engenharia de software.
 
 ---
 
-<div align="center">
-  <sub>Desenvolvido por Fábio</sub>
-</div>
+<p align="center">
+  <sub>Construindo soluções reais, não apenas código.</sub>
+</p>
