@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./header.png" alt="Banner" style="width:100%; max-height:220px; object-fit:cover;" />
+  <img src="./github-header.png" alt="Banner" style="width:100%; max-height:220px; object-fit:cover;" />
 </div>
 
 ---
