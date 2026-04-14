@@ -6,10 +6,6 @@
 Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, APIs robustas e boas práticas de engenharia de software.
 </p>
 --
-<div align="center">
-  <img src="./github-header.png" alt="Banner" style="width:100%; max-height:220px; object-fit:cover;" />
-</div>
---
 ---
 
 ## 🚀 Sobre mim
