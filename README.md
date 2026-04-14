@@ -5,8 +5,7 @@
 <p align="center">
 Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, APIs robustas e boas práticas de engenharia de software.
 </p>
---
----
+
 
 ## 🚀 Sobre mim
 
