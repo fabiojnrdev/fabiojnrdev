@@ -26,7 +26,8 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
 **Front-end (apoio)**
 - React
 - JavaScript
-- HTML, CSS, Bootstrap
+- Typescript
+- HTML5, CSS3, Bootstrap
   
 **Arquitetura**
 - APIs REST
