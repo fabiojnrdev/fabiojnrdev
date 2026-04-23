@@ -60,8 +60,7 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
   - Foco em Manutenibilidade: Estruturação em Arquitetura Modular, facilitando a refatoração e expansão de funcionalidades.
 
 - 🔹 **Flowtask AI (FastAPI + React) | Em produção**
-  
-  **IA real** — ao adicionar uma tarefa, a IA gera subtarefas, estima tempo, define prioridade e justifica
+- **IA real** — ao adicionar uma tarefa, a IA gera subtarefas, estima tempo, define prioridade e justifica
 - **Pomodoro integrado** — timer 25/5min vinculado à tarefa, com contador de ciclos
 - **CRUD completo** — adicionar, concluir, remover tarefas e subtarefas
 - **Filtros e busca** — filtrar por status, buscar por texto em tempo real
