@@ -31,8 +31,7 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
   
 **Arquitetura**
 - APIs REST
-- POO
-- Arquitetura em Camadas
+- OOP
 - Autenticação JWT
 
 **DevOps & Ferramentas**
