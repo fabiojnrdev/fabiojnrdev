@@ -9,34 +9,45 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
 
 ## 🚀 Sobre mim
 
-- Estudante de Ciência da Computação  
-- Formação técnica em Desenvolvimento de Sistemas  
-- Foco em back-end com Python e APIs  
+- Atualmente cursando Ciência da Computação  - 4° Período 
+- Técnico em Desenvolvimento de Sistemas pelo Instituto Federal do Piauí
+- Foco principal em back-end, na construção de APIs REST com Django e FastAPI
+- Atuo com front-end se for necessário 
 - Interesse em sistemas escaláveis e código limpo  
 
 ---
 
 ## 🧠 Tecnologias
 
-**Back-end**
-- Python (FastAPI, Django)
+**Linguagens**
+- Python
 - Java
-- PostgreSQL
-
-**Front-end (apoio)**
-- React
 - JavaScript
 - Typescript
-- HTML5, CSS3, Bootstrap
+- HTML5
+- CSS3
+
+**Frameworks**
+- FastAPI
+- Django
+- Node.js
+- React
+- Bootstrap
   
-**Arquitetura**
+**APIs**
 - APIs REST
 - OOP
 - Autenticação JWT
+- HTTP
+- JSON
+- CRUD
 
 **DevOps & Ferramentas**
 - Git
 - GitHub
+- Docker
+- GitFlow
+- Pytest
 - Docker
   
 **Idiomas**
