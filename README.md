@@ -65,16 +65,18 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
 - **Filtros e busca** — filtrar por status, buscar por texto em tempo real
 ---
 
-## 📈 O que você pode esperar de mim
+## 📈 Meus atributos principais
 
 - Código limpo e bem estruturado  
 - Organização por camadas e responsabilidades  
-- Preocupação com escalabilidade desde o início  
+- Preocupação com escalabilidade desde o início
+- Controle contínuo em relação a qualidade
+- Perfil analítico  
 - Evolução constante e aprendizado rápido  
 
 ---
 
-## 🤝 Contato
+## 🤝 Entre em Contato
 
 <div align="center">
   <a href="https://github.com/fabiojnrdev" target="_blank">
