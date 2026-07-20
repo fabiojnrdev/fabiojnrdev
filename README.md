@@ -71,7 +71,7 @@ Desenvolvedor focado em back-end, com interesse em arquiteturas escaláveis, API
   - Foco em Manutenibilidade: Estruturação em Arquitetura Modular, facilitando a refatoração e expansão de funcionalidades.
 
 - 🔹 **E-commerce API (FastAPI + Docker) | Em produção**
-- API REST para gerenciamento de estoque e pedidos, com processamento assíncrono e
+  -  API REST para gerenciamento de estoque e pedidos, com processamento assíncrono e
 controle de concorrência. Evolução do projeto atual de usuários/produtos, adicionando
 complexidade de produção real: filas, migrations versionadas, lock otimista e integração de
 pagamento simulada.
