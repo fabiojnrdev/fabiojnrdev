@@ -4,7 +4,7 @@
 
 ### Backend Developer • Python • FastAPI • Django
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construindo+APIs+REST+Robustas;Designing+scalable+backend+systems;Always+learning+new+technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=2000&color=58A6FF&center=true&vCenter=true&width=650&lines=Construindo+APIs+REST+robustas;Desenvolvendo+soluções+backend+escaláveis;Sempre+aprendendo+novas+tecnologias"/>
 
 <br>
 
