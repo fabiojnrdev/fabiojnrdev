@@ -155,9 +155,7 @@ Destaques
 
 - Clean Architecture
 - Design Patterns
-- Docker
 - Spring Boot
-- PostgreSQL
 - Testes Automatizados
 - CI/CD
 
@@ -166,9 +164,9 @@ Destaques
 
 > Escrever código é apenas parte do trabalho.
 
-Acredito que software de qualidade nasce de arquitetura consistente, código limpo, testes e evolução contínua.
+Todo software de qualidade nasce de uma arquitetura consistente, documentações bem elaboradas, código limpo, testes e evolução contínua.
 
-Busco desenvolver soluções que permaneçam simples hoje e sustentáveis amanhã.
+Busco desenvolver soluções que pareçam simples, mas com um impacto real para o futuro.
 
 ---
 
